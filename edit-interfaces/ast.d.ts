@@ -6,7 +6,7 @@ export interface CodeSource extends SourceNode{
 	/**
  	* path to source file  
  	*/     
-    path: string
+        path: string
 	/**
  	* file content
  	*/
